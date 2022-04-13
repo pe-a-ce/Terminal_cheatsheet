@@ -37,4 +37,4 @@ Remove a directory | rm -r directoryname
 |to add a specific file| git add filename
 |to select all untracked files| git add .
 |commit a change| git commit -m "commit text"
-|push repo to github| git push 
+|push repo to github| git push origin main
